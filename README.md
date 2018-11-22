@@ -1,3 +1,2 @@
-# React Series
-Este pacote contém os arquivos básicos para iniciar as vídeo aulas
-de React do [Canal V++](https://youtube.com/user/VPlusPlus).
+# React Tutorial
+Onde criamos um placar de um jogo, nesse projeto não é usado redux.

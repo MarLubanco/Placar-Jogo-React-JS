@@ -10,10 +10,7 @@ export default class BotaoGol extends React.Component {
     render() {
         return (
             <div>
-                
-            <button onClick={this.handleClick.bind(this)}>GOLL </button>
-
-                
+            <button className={"btn btn-success"} onClick={this.handleClick.bind(this)}>GOLL </button>
             </div>
         );_
         
